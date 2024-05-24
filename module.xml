@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="dynamic-object-adapter.ZPM">
+    <Module>
+      <Name>dynamic-object-adapter</Name>
+      <Version>2.0.0</Version>
+      <Description>serialize/deserialize" class instances from/to a DynamicObject</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="MasterLib.PKG"/>
+      <Resource Name="Examples.PKG"/>
+    </Module>
+  </Document>
+</Export>
